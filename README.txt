@@ -1,5 +1,6 @@
     Clone Repository:
 
+git bash op de locatie waar je wilt clonen en voer het volgende commando uit
 git clone https://github.com/BENNOOOOOO/StageOpdrachtRepo.git
 
 
